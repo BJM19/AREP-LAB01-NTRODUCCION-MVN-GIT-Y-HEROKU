@@ -7,7 +7,7 @@ Este proyecto esta desarrollado y construido usando el framework Spark,permite c
 ![](./imgs/diagrama.PNG)
 
 
-### Como Ejecutarlo?
+### ¿Como Ejecutarlo?
 
 Se debe contar con el proyecto clonado y compilado debidamente usando maven, posteriormente ejecutar el siguiente comando
 
